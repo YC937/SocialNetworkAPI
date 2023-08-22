@@ -2,7 +2,7 @@
     "name": "social-network-api",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "server.js",
     "keywords": [],
     "author": "",
     "license": "MIT",
