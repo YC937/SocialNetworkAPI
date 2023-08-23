@@ -1,7 +1,7 @@
 const { Thought, User } = require("../models");
 
 module.exports = {
-  async getThought(req, res) {
+  async getThoughts(req, res) {
 
   },
 
@@ -26,12 +26,12 @@ module.exports = {
   },
 
   // React to thought
-  async createReaction(req, res) {
+  async addReaction(req, res) {
 
   },
 
   // Remove reaction from thought
-  async deleteReaction(req, res) {
+  async removeReaction(req, res) {
 
   },
 };
