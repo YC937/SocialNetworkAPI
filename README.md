@@ -1,6 +1,5 @@
 # SocialNetworkAPI (NoSQL)
 
-
 ## Description
 
 The goal of this project is to help with social networking. This app works on the back-end and insomnia will be used to test the routes. User can create an account and post thoughts on the page. 
@@ -14,7 +13,6 @@ Use `post`, `get`, `put` and `delete` routes in Insomnia.
 ##
 
 Link to the repository: https://github.com/YC937/SocialNetworkAPI18 
-
 
 ## License
 
